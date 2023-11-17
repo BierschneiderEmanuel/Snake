@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Display">
+    <Position X="5.75" Y="5.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAAAAAAAABAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>display.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S_N_A_K_E">
+    <Position X="3.25" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAIABgAAAAAAA=</HashCode>
+      <FileName>snake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake">
+    <Position X="5.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAQAAAQBAAACgAAAIAAgAAAAJAACAIAAAQAAWRgI=</HashCode>
+      <FileName>snake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Element">
+    <Position X="3.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgIAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>highscore.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Highscore">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAoAAAAAAAAAAAAAAgCABAAAAAAEAAA=</HashCode>
+      <FileName>highscore.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

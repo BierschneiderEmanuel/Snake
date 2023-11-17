@@ -1,5 +1,6 @@
 # Snake
-Vintage Computing MS-DOS Snake C++
+-> Vintage Computing MS-DOS Snake C++ <-
+
 Simple MS-DOS SNAKE game written in C++ back then 2009 when I was a student.
 The VS solution has been converted to Visual Studio 2017 (v141) and uses Windows SDK 10.0.17763.0
 

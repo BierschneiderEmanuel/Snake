@@ -333,14 +333,14 @@ int main(void)
 						break;
 					}
 				}
-				if(menu_sub_item_num1==2)                   //CONTROLS
+				if(menu_sub_item_num1==2)                    //CONTROLS
 				{
 					Snake_Game.inpchar_options='0';
 					cls();
 					gotoxy(35, wherey());
 					middle(7, 25);
 					centerstr("[a][<-] for moving left \n\n");
-					centerstr("[d][->] for moving righ \n\n");
+					centerstr("[d][->] for moving right\n\n");
 					centerstr("   [|]                   \n");
 					centerstr("[w][v]  for moving down \n\n");
 					centerstr("[s][^]  for moving up    \n");
